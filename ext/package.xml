@@ -78,7 +78,7 @@ Bug Fixes:
       <file role="doc" name="doc/Cassandra/Exception/UnavailableException.php" />
       <file role="doc" name="doc/Cassandra/Exception/UnpreparedException.php" />
       <file role="doc" name="doc/Cassandra/Exception/ValidationException.php" />
-      <file role="doc" name="doc/Cassandra/Exception/WriteTimeout.php" />
+      <file role="doc" name="doc/Cassandra/Exception/WriteTimeoutException.php" />
       <file role="doc" name="doc/Cassandra/ExecutionOptions.php" />
       <file role="doc" name="doc/Cassandra/Float.php" />
       <file role="doc" name="doc/Cassandra/Future.php" />
